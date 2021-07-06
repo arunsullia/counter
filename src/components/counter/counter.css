@@ -1,0 +1,42 @@
+.step {
+  text-align: center;
+  padding: 15px;
+  outline: none;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  margin: 0 10px;
+  background: rgba(0, 0, 0, 0.2);
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.btn {
+  padding: 10px 20px;
+  background-color: #049bd6;
+  font-weight: bold;
+  color: white;
+  border: 1px solid white;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.green {
+  color: green;
+}
+.red {
+  color: red;
+}
+
+.info{
+    background: rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    margin: 20px;
+    font-size: 0.8em;
+    font-weight: normal;
+    color: #9b9b9b;
+}
